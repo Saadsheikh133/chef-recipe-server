@@ -9,18 +9,21 @@
         "description": "Chef Monirul is a master of Bangladeshi cuisine, with over 10 years of experience creating delicious dishes.",
         "recipes": [
             {
+                "id": 1,
                 "name": "Hilsha Fish Curry",
                 "ingredients": [ "Hilsha fish", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Coriander powder", "Cumin powder", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until golden brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, coriander powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried fish and cook for 10-15 minutes", "Garnish with chopped coriander leaves" ],
                 "rating": 4.5
             },
             {
+                "id": 2,
                 "name": "Chitol Macher Kalia",
                 "ingredients": [ "Chitol fish", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Coriander powder", "Cumin powder", "Salt", "Garam masala", "Mustard oil" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until golden brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, coriander powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried fish and cook for 10-15 minutes", "Add garam masala and cook for another 2-3 minutes", "Garnish with chopped coriander leaves" ],
                 "rating": 3.2
             },
             {
+                "id": 3,
                 "name": "Pabda Macher Jhal",
                 "ingredients": [ "Pabda fish", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Red chili powder", "Cumin powder", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until golden brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, red chili powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried fish and cook for 10-15 minutes", "Garnish with chopped coriander leaves" ],
@@ -39,18 +42,21 @@
         "description": "Chef Sadia is a rising star in the world of Bangladeshi cuisine, with a talent for combining traditional and modern flavors.",
         "recipes": [
             {
+                "id": 1,
                 "name": "Beef Bhuna",
                 "ingredients": [ "Beef", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Red chili powder", "Coriander powder", "Cumin powder", "Garam masala", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the beef with turmeric powder and salt", "Heat mustard oil in a pan and fry the beef until brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, red chili powder, coriander powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried beef and cook for 20-30 minutes", "Add garam masala and cook for another 2-3 minutes", "Garnish with chopped coriander leaves" ],
                 "rating": 2.7
             },
             {
+                "id": 2,
                 "name": "Mutton Rezala",
                 "ingredients": [ "Mutton", "Onion", "Garlic", "Ginger", "Cashew nuts", "Poppy seeds", "Yogurt", "Green chili", "Turmeric powder", "Coriander powder", "Cumin powder", "Garam masala", "Salt", "Ghee" ],
                 "instructions": [ "Marinate the mutton with yogurt, turmeric powder, and salt", "Grind cashew nuts and poppy seeds to a fine paste", "Heat ghee in a pan and fry the mutton until brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, coriander powder, and cumin powder and fry for a minute", "Add the ground paste and fry for a few minutes", "Add water and bring it to a boil", "Add garam masala and cook for 20-30 minutes", "Garnish with chopped coriander leaves" ],
                 "rating": 4.0
             },
             {
+                "id": 3,
                 "name": "Chicken Korma",
                 "ingredients": [ "Chicken", "Onion", "Garlic", "Ginger", "Cashew nuts", "Poppy seeds", "Yogurt", "Green chili", "Turmeric powder", "Red chili powder", "Coriander powder", "Cumin powder", "Garam masala", "Salt", "Ghee" ],
                 "instructions": [ "Marinate the chicken with yogurt, turmeric powder, and salt", "Grind cashew nuts and poppy seeds to a fine paste", "Heat ghee in a pan and fry the chicken until brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, red chili powder, coriander powder, and cumin powder and fry for a minute", "Add the ground paste and fry for a few minutes", "Add water and bring it to a boil", "Add garam masala and cook for 20-30 minutes", "Garnish with chopped coriander leaves" ],
@@ -68,18 +74,21 @@
         "description": "Chef Imran is a seasoned veteran of the Bangladeshi culinary scene, with a passion for using fresh, locally-sourced ingredients.",
         "recipes":[
             { 
+                "id": 1,
                 "name": "Rui Maach Bhaja", 
                 "ingredients": [ "Rohu fish", "Turmeric powder", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until golden brown" ],
                 "rating": 4.2
             },
             {
+                "id": 2,
                 "name": "Chingri Bhuna",
                 "ingredients": [ "Prawns", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Red chili powder", "Coriander powder", "Cumin powder", "Garam masala", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the prawns with turmeric powder and salt", "Heat mustard oil in a pan and fry the prawns until brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, red chili powder, coriander powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried prawns and cook for 5-10 minutes", "Add garam masala and cook for another 2-3 minutes", "Garnish with chopped coriander leaves" ],
                 "rating": 3.5
             },
             {
+                "id": 3,
                 "name": "Hilsa Curry",
                 "ingredients": [ "Hilsa fish", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Turmeric powder", "Red chili powder", "Coriander powder", "Cumin powder", "Garam masala", "Salt", "Mustard oil" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until brown", "In the same pan, add chopped onion, garlic, ginger, and green chili and saute for a few minutes", "Add turmeric powder, red chili powder, coriander powder, and cumin powder and fry for a minute", "Add chopped tomato and cook until the oil separates", "Add water and bring it to a boil", "Add the fried fish and cook for 10-15 minutes", "Add garam masala and cook for another 2-3 minutes", "Garnish with chopped coriander leaves" ],
@@ -97,18 +106,21 @@
         "description": "Chef Nasrin is known for her creative twists on traditional Bangladeshi dishes, and her innovative use of spices and flavors.",
         "recipes":[
             {
+                "id":1,
                 "name": "Bhetki Paturi",
                 "ingredients": [ "Bhetki fish", "Mustard paste", "Coconut paste", "Green chili paste", "Turmeric powder", "Salt", "Mustard oil", "Banana leaf" ],
                 "instructions": [ "Marinate the fish with mustard paste, coconut paste, green chili paste, turmeric powder, and salt", "Wrap the fish in a banana leaf and tie with a string", "Steam the fish for 15-20 minutes", "Heat mustard oil in a pan and fry the fish until the leaf turns brown", "Serve hot with steamed rice" ],
                 "rating": 2.9
             },
             {
+                "id": 2,
                 "name": "Mishti Doi",
                 "ingredients": [ "Milk", "Sugar", "Yogurt", "Earthen pots" ],
                 "instructions": [ "Boil milk in a pan and let it cool down to room temperature", "Add sugar and yogurt to the milk and mix well", "Pour the mixture into earthen pots and cover with a lid", "Place the pots in a warm place and let it set for 6-8 hours", "Refrigerate the pots for a few hours before serving" ],
                 "rating": 4.1
             },
             {
+                "id": 3,
                 "name": "Chomchom",
                 "ingredients": [ "Milk powder", "All-purpose flour", "Sugar", "Water", "Rosewater", "Cardamom powder", "Pistachios" ],
                 "instructions": [ "Mix milk powder and all-purpose flour in a bowl", "Add water and knead the mixture until it becomes a smooth dough", "Divide the dough into small balls and roll them into cylindrical shapes", "Boil sugar and water in a pan and add rosewater and cardamom powder", "Add the cylindrical balls to the syrup and cook for 15-20 minutes", "Garnish with chopped pistachios" ],
@@ -126,18 +138,21 @@
         "description": "Chef Abdul is a legend in the Bangladeshi culinary world, with decades of experience creating unforgettable dishes.",
         "recipes":[
             {
+                "id": 1,
                 "name": "Firni",
                 "ingredients": [ "Milk", "Rice flour", "Sugar", "Cardamom powder", "Pistachios" ],
                 "instructions": [ "Boil milk in a pan and add rice flour to it", "Stir continuously to avoid lumps", "Add sugar and cardamom powder and cook until the mixture thickens", "Pour the mixture into serving bowls and let it cool down to room temperature", "Refrigerate the bowls for a few hours before serving", "Garnish with chopped pistachios" ],
                 "rating": 4.3
             },
             {
+                "id": 2,
                 "name": "Bhuna Khichuri",
                 "ingredients": [ "Rice", "Lentils", "Onion", "Garlic", "Ginger", "Tomato", "Green chili", "Cumin powder", "Coriander powder", "Turmeric powder", "Ghee", "Salt", "Water" ],
                 "instructions": [ "Soak rice and lentils in water for 30 minutes", "Heat ghee in a pan and fry onions until golden brown", "Add garlic, ginger, and green chili to the pan and fry for a minute", "Add tomatoes and cook until they turn soft", "Add cumin powder, coriander powder, turmeric powder, and salt to the pan and fry for a minute", "Add the soaked rice and lentils to the pan and stir well", "Add enough water to cover the mixture and cook until the rice and lentils are soft and mushy", "Serve hot with fried eggplant and fried onions" ],
                 "rating": 3.9
             },
             {
+                "id": 3,
                 "name": "Shorshe Ilish",
                 "ingredients": [ "Hilsa fish", "Mustard seeds", "Green chili", "Turmeric powder", "Salt", "Mustard oil", "Water" ],
                 "instructions": [ "Clean and cut the hilsa fish into pieces", "Make a paste with mustard seeds, green chili, turmeric powder, and salt", "Heat mustard oil in a pan and fry the fish pieces until golden brown", "Remove the fish from the pan and keep aside", "In the same pan, add the mustard paste and fry for a minute", "Add enough water to cover the mixture and cook until the mixture thickens", "Add the fish pieces to the pan and cook for a few minutes", "Serve hot with steamed rice" ],
@@ -155,18 +170,21 @@
         "description": "Chef Farzana is a young talent with a passion for using fresh, seasonal ingredients to create healthy and delicious Bangladeshi dishes.",
         "recipes":[
             {
+                "id": 1,
                 "name": "Mutton Rezala",
                 "ingredients": [ "Mutton", "Onion", "Garlic", "Ginger", "Yogurt", "Poppy seeds", "Cashews", "Cardamom powder", "Cinnamon powder", "Bay leaf", "Ghee", "Salt", "Water" ],
                 "instructions": [ "Heat ghee in a pan and fry onions until golden brown", "Add garlic, ginger, and bay leaf to the pan and fry for a minute", "Add mutton to the pan and fry until it turns brown", "Add cardamom powder and cinnamon powder to the pan and fry for a minute", "Make a paste with yogurt, poppy seeds, and cashews", "Add the paste to the pan and stir well", "Add enough water to cover the mixture and cook until the mutton is tender", "Serve hot with naan or paratha" ],
                 "rating": 2.5
             },
             {
+                "id": 2,
                 "name": "Kacchi Biryani",
                 "ingredients": [ "Basmati rice", "Mutton", "Onion", "Garlic", "Ginger", "Yogurt", "Green chili", "Saffron", "Milk", "Cardamom pods", "Cinnamon stick", "Cloves", "Bay leaf", "Ghee", "Salt", "Water" ],
                 "instructions": [ "Marinate mutton with yogurt, green chili, and salt for at least 2 hours", "Soak saffron in warm milk", "Wash basmati rice and soak in water for 30 minutes", "Heat ghee in a pot and fry onions until golden brown", "Add garlic, ginger, and bay leaf to the pot and fry for a minute", "Add mutton to the pot and fry until it turns brown", "Add cardamom pods, cinnamon stick, and cloves to the pot and fry for a minute", "Add enough water to cover the mixture and cook until the mutton is tender", "Drain the soaked rice and add it to the pot", "Pour the saffron milk over the rice", "Cover the pot and cook on low heat until the rice is cooked and fluffy", "Serve hot with raita and salad" ],
                 "rating": 4.4
             },
             {
+                "id": 3,
                 "name": "Chingri Bhapa",
                 "ingredients": [ "Prawns", "Coconut milk", "Mustard paste", "Green chili", "Turmeric powder", "Salt", "Mustard oil", "Water" ],
                 "instructions": [ "Clean and devein the prawns", "Make a paste with coconut milk, mustard paste, green chili, turmeric powder, and salt", "Mix the prawns with the paste", "Add the prawn mixture to a bowl and cover it with foil", "Add water to a steamer and place the bowl in the steamer", "Steam the prawn mixture for 20-25 minutes or until the prawns are cooked", "Remove from the steamer and drizzle mustard oil over the top", "Serve hot with steamed rice" ],
@@ -184,18 +202,21 @@
         "description": "Chef Shahed is a master of Bangladeshi cuisine, with a focus on using traditional techniques and ingredients to create authentic dishes.",
         "recipes":[
             {
+                "id": 1,
                 "name": "Shami Kabab",
                 "ingredients": [ "Ground beef", "Chana dal", "Onion", "Garlic", "Ginger", "Egg", "Bread crumbs", "Garam masala", "Cumin powder", "Coriander powder", "Red chili powder", "Salt", "Oil" ],
                 "instructions": [ "Soak chana dal in water for 2-3 hours", "Boil chana dal in salted water until it is soft and mushy", "Heat oil in a pan and fry onions until golden brown", "Add garlic and ginger to the pan and fry for a minute", "Add ground beef to the pan and fry until it turns brown", "Add garam masala, cumin powder, coriander powder, red chili powder, and salt to the pan and fry for a minute", "Add the boiled chana dal to the pan and stir well", "Cook for a few minutes until the mixture is dry", "Let the mixture cool down", "Add egg and bread crumbs to the mixture and knead well", "Shape the mixture into small patties", "Heat oil in a pan and fry the patties until they are golden brown on both sides", "Serve hot with mint chutney" ],
                 "rating": 4.8
             },
             {
+                "id": 2,
                 "name": "Chingri Malai Curry",
                 "ingredients": [ "Prawns", "Coconut milk", "Onion", "Garlic", "Ginger", "Green chili", "Cumin powder", "Coriander powder", "Turmeric powder", "Red chili powder", "Garam masala", "Salt", "Oil" ],
                 "instructions": [ "Clean and devein prawns", "Heat oil in a pan and fry onions until golden brown", "Add garlic, ginger, and green chili to the pan and fry for a minute", "Add cumin powder, coriander powder, turmeric powder, and red chili powder to the pan and fry for a minute", "Add prawns to the pan and fry until they turn pink", "Add coconut milk to the pan and stir well", "Add salt to taste and let it cook for 5-7 minutes until the gravy thickens", "Add garam masala to the pan and stir well", "Garnish with chopped coriander leaves", "Serve hot with steamed rice" ],
                 "rating": 4.7
             },
             {
+                "id": 3,
                 "name": "Shorshe Ilish",
                 "ingredients": [ "Hilsa fish", "Mustard oil", "Onion", "Garlic", "Ginger", "Green chili", "Mustard paste", "Turmeric powder", "Salt", "Water" ],
                 "instructions": [ "Clean and cut the Hilsa fish into pieces", "Marinate the fish with salt and turmeric powder for 15-20 minutes", "Heat mustard oil in a pan and fry the fish pieces until they are golden brown on both sides", "Remove the fish pieces from the pan and keep them aside", "Add onion, garlic, ginger, and green chili to the same pan and fry until the onions turn translucent", "Add mustard paste and a little bit of water to the pan and stir well", "Add salt to taste and let the gravy cook for a few minutes", "Add the fried fish pieces to the pan and coat them well with the gravy", "Let it cook for a few more minutes until the fish is fully cooked", "Serve hot with steamed rice" ],

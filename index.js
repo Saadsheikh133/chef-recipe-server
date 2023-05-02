@@ -11,10 +11,16 @@ app.get('/', (req, res) => {
     res.send('api comming soon')
 })
 
+app.get('/chefInfo/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChef = chefInfo.find(info => info.id == id);
+    res.send(selectedChef)
+})
+
 app.get('/chefInfo', (req, res) => {
     res.send(chefInfo);
 })
 
 app.listen(port, () => {
-    console.log('hellow world')
+    console.log('hello world')
 })
