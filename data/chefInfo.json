@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chef_name": "Monirul Islam",
-        "image": "https://example.com/chef1.jpg",
+        "image": "https://www.linkpicture.com/q/chef-11.jpg",
         "experience": "10 years",
         "num_recipes": 25,
         "likes": 1000,
@@ -12,7 +12,7 @@
 
         "id": 2,
         "chef_name": "Sadia Rahman",
-        "image": "https://example.com/chef2.jpg",
+        "image": "https://www.linkpicture.com/q/fm-3.jpg",
         "experience": "8 years",
         "num_recipes": 20,
         "likes": 800,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "chef_name": "Imran Ahmed",
-        "image": "https://example.com/chef3.jpg",
+        "image": "https://www.linkpicture.com/q/chef-6.jpg",
         "experience": "15 years",
         "num_recipes": 30,
         "likes": 1200,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "chef_name": "Nasrin Sultana",
-        "image": "https://example.com/chef4.jpg",
+        "image": "https://www.linkpicture.com/q/fm-1.jpg",
         "experience": "12 years",
         "num_recipes": 18,
         "likes": 900,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "chef_name": "Abdul Khalek",
-        "image": "https://example.com/chef5.jpg",
+        "image": "https://www.linkpicture.com/q/chef-3.jpg",
         "experience": "20 years",
         "num_recipes": 35,
         "likes": 1500,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "chef_name": "Farzana Akhtar",
-        "image": "https://example.com/chef6.jpg",
+        "image": "https://www.linkpicture.com/q/fm-0.jpg",
         "experience": "5 years",
         "num_recipes": 15,
         "likes": 600,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "chef_name": "Shahed Ahmed",
-        "image": "https://example.com/chef7.jpg",
+        "image": "https://www.linkpicture.com/q/chef-2.jpg",
         "experience": "18 years",
         "num_recipes": 28,
         "likes": 1100,
