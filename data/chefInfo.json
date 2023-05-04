@@ -76,7 +76,7 @@
             { 
                 "id": 1,
                 "name": "Rui Maach Bhaja", 
-                "ingredients": [ "Rohu fish", "Turmeric powder", "Salt", "Mustard oil" ],
+                "ingredients": [ "Rohu fish", "Turmeric powder", "Salt", "Mustard oil, red chili" ],
                 "instructions": [ "Marinate the fish with turmeric powder and salt", "Heat mustard oil in a pan and fry the fish until golden brown" ],
                 "rating": 4.2
             },
@@ -115,7 +115,7 @@
             {
                 "id": 2,
                 "name": "Mishti Doi",
-                "ingredients": [ "Milk", "Sugar", "Yogurt", "Earthen pots" ],
+                "ingredients": [ "Milk", "Sugar", "Yogurt", "Earthen pots, green cardamom" ],
                 "instructions": [ "Boil milk in a pan and let it cool down to room temperature", "Add sugar and yogurt to the milk and mix well", "Pour the mixture into earthen pots and cover with a lid", "Place the pots in a warm place and let it set for 6-8 hours", "Refrigerate the pots for a few hours before serving" ],
                 "rating": 4.1
             },
