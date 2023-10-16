@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chef_name": "Monirul Islam",
-        "image": "https://www.linkpicture.com/q/chef-11.jpg",
+        "image": "https://img.freepik.com/free-photo/expressive-young-man-posing-winter-holidays_140725-140526.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
         "experience": "10 years",
         "num_recipes": 25,
         "likes": 1000,
@@ -35,7 +35,7 @@
 
         "id": 2,
         "chef_name": "Sadia Rahman",
-        "image": "https://www.linkpicture.com/q/fm-3.jpg",
+        "image": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-holds-bowl-whisk-isolated-orange-wall-with-copy-space_141793-33475.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
         "experience": "8 years",
         "num_recipes": 20,
         "likes": 800,
@@ -67,7 +67,7 @@
     {
         "id": 3,
         "chef_name": "Imran Ahmed",
-        "image": "https://www.linkpicture.com/q/chef-6.jpg",
+        "image": "https://img.freepik.com/free-photo/looking-up-concerned-young-male-cook-wearing-chef-uniform-glasses-holding-frying-pan_141793-81469.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
         "experience": "15 years",
         "num_recipes": 30,
         "likes": 1200,
@@ -99,7 +99,7 @@
     {
         "id": 4,
         "chef_name": "Nasrin Sultana",
-        "image": "https://www.linkpicture.com/q/fm-1.jpg",
+        "image": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-points-side-isolated-green-wall-with-copy-space_141793-33513.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
         "experience": "12 years",
         "num_recipes": 18,
         "likes": 900,
@@ -131,7 +131,7 @@
     {
         "id": 5,
         "chef_name": "Abdul Khalek",
-        "image": "https://www.linkpicture.com/q/chef-3.jpg",
+        "image": "https://img.freepik.com/free-photo/medium-shot-man-with-delicious-muffins_23-2150379163.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
         "experience": "20 years",
         "num_recipes": 35,
         "likes": 1500,
@@ -163,7 +163,7 @@
     {
         "id": 6,
         "chef_name": "Farzana Akhtar",
-        "image": "https://www.linkpicture.com/q/fm-0.jpg",
+        "image": "https://img.freepik.com/free-photo/professional-smiling-confectioner-wrapping-box-with-cookies_1163-2864.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
         "experience": "5 years",
         "num_recipes": 15,
         "likes": 600,
@@ -189,38 +189,6 @@
                 "ingredients": [ "Prawns", "Coconut milk", "Mustard paste", "Green chili", "Turmeric powder", "Salt", "Mustard oil", "Water" ],
                 "instructions": [ "Clean and devein the prawns", "Make a paste with coconut milk, mustard paste, green chili, turmeric powder, and salt", "Mix the prawns with the paste", "Add the prawn mixture to a bowl and cover it with foil", "Add water to a steamer and place the bowl in the steamer", "Steam the prawn mixture for 20-25 minutes or until the prawns are cooked", "Remove from the steamer and drizzle mustard oil over the top", "Serve hot with steamed rice" ],
                 "rating": 3.3
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "chef_name": "Shahed Ahmed",
-        "image": "https://www.linkpicture.com/q/chef-2.jpg",
-        "experience": "18 years",
-        "num_recipes": 28,
-        "likes": 1100,
-        "description": "Chef Shahed is a master of Bangladeshi cuisine, with a focus on using traditional techniques and ingredients to create authentic dishes.",
-        "recipes":[
-            {
-                "id": 1,
-                "name": "Shami Kabab",
-                "ingredients": [ "Ground beef", "Chana dal", "Onion", "Garlic", "Ginger", "Egg", "Bread crumbs", "Garam masala", "Cumin powder", "Coriander powder", "Red chili powder", "Salt", "Oil" ],
-                "instructions": [ "Soak chana dal in water for 2-3 hours", "Boil chana dal in salted water until it is soft and mushy", "Heat oil in a pan and fry onions until golden brown", "Add garlic and ginger to the pan and fry for a minute", "Add ground beef to the pan and fry until it turns brown", "Add garam masala, cumin powder, coriander powder, red chili powder, and salt to the pan and fry for a minute", "Add the boiled chana dal to the pan and stir well", "Cook for a few minutes until the mixture is dry", "Let the mixture cool down", "Add egg and bread crumbs to the mixture and knead well", "Shape the mixture into small patties", "Heat oil in a pan and fry the patties until they are golden brown on both sides", "Serve hot with mint chutney" ],
-                "rating": 4.8
-            },
-            {
-                "id": 2,
-                "name": "Chingri Malai Curry",
-                "ingredients": [ "Prawns", "Coconut milk", "Onion", "Garlic", "Ginger", "Green chili", "Cumin powder", "Coriander powder", "Turmeric powder", "Red chili powder", "Garam masala", "Salt", "Oil" ],
-                "instructions": [ "Clean and devein prawns", "Heat oil in a pan and fry onions until golden brown", "Add garlic, ginger, and green chili to the pan and fry for a minute", "Add cumin powder, coriander powder, turmeric powder, and red chili powder to the pan and fry for a minute", "Add prawns to the pan and fry until they turn pink", "Add coconut milk to the pan and stir well", "Add salt to taste and let it cook for 5-7 minutes until the gravy thickens", "Add garam masala to the pan and stir well", "Garnish with chopped coriander leaves", "Serve hot with steamed rice" ],
-                "rating": 4.7
-            },
-            {
-                "id": 3,
-                "name": "Shorshe Ilish",
-                "ingredients": [ "Hilsa fish", "Mustard oil", "Onion", "Garlic", "Ginger", "Green chili", "Mustard paste", "Turmeric powder", "Salt", "Water" ],
-                "instructions": [ "Clean and cut the Hilsa fish into pieces", "Marinate the fish with salt and turmeric powder for 15-20 minutes", "Heat mustard oil in a pan and fry the fish pieces until they are golden brown on both sides", "Remove the fish pieces from the pan and keep them aside", "Add onion, garlic, ginger, and green chili to the same pan and fry until the onions turn translucent", "Add mustard paste and a little bit of water to the pan and stir well", "Add salt to taste and let the gravy cook for a few minutes", "Add the fried fish pieces to the pan and coat them well with the gravy", "Let it cook for a few more minutes until the fish is fully cooked", "Serve hot with steamed rice" ],
-                "rating": 4.9
             }
         ]
     }
