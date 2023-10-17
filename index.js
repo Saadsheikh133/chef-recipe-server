@@ -26,6 +26,12 @@ app.get("/foods", (req, res) => {
     res.send(foods);
 });
 
+app.get('/foods:id', (req, res) => {
+    const id = req.params.id;
+    const selectedFood = foods.find(food => food.id === id);
+    res.send(selectedFood);
+})
+
 app.listen(port, () => {
     console.log('hello world')
 });
