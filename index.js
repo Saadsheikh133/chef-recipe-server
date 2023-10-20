@@ -7,6 +7,7 @@ app.use(cors());
 
 const chefInfo = require('./data/chefInfo.json');
 const foods = require('./data/foods.json');
+const reviews = require('./data/review.json');
 
 app.get('/', (req, res) => {
     res.send('api comming soon')
@@ -31,6 +32,11 @@ app.get('/foods:id', (req, res) => {
     const selectedFood = foods.find(food => food.id === id);
     res.send(selectedFood);
 })
+
+// review section
+app.get('/review', (req, res) => {
+    res.send(reviews);
+});
 
 app.listen(port, () => {
     console.log('hello world')

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "customer": "Alice",
+        "rating": 4.5,
+        "review": "The food was delicious and the service was excellent! Highly recommended.",
+        "image": "https://img.freepik.com/free-photo/handsome-man-home_144627-9821.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 2,
+        "customer": "Bob",
+        "rating": 5.0,
+        "review": "I absolutely loved the dishes here. The flavors were amazing!",
+        "image": "https://img.freepik.com/free-photo/man-posing-home_144627-37401.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 3,
+        "customer": "Charlie",
+        "rating": 3.8,
+        "review": "The food was decent, but the portion size could have been larger for the price.",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-young-man-closeup_176420-15568.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 4,
+        "customer": "David",
+        "rating": 4.2,
+        "review": "Great ambiance and friendly staff. The food was above average.",
+        "image": "https://img.freepik.com/free-photo/impressed-young-brunette-caucasian-boy-looking-camera-pink_141793-93117.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 5,
+        "customer": "Eva",
+        "rating": 4.9,
+        "review": "Fantastic food! I can't get enough of their unique flavors. Will definitely come back.",
+        "image": "https://img.freepik.com/free-photo/close-up-portrait-smiling-young-bearded-man_171337-4819.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 6,
+        "customer": "Frank",
+        "rating": 3.5,
+        "review": "The food was okay, but I expected more considering the hype. Service was slow.",
+        "image": "https://img.freepik.com/free-photo/close-up-bearded-tired-man_176420-18785.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 7,
+        "customer": "Grace",
+        "rating": 4.7,
+        "review": "Exquisite dishes and top-notch service. A delightful dining experience.",
+        "image": "https://img.freepik.com/free-photo/portrait-happy-male-with-broad-smile_176532-8175.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais"
+    },
+    {
+        "id": 8,
+        "customer": "Hannah",
+        "rating": 4.0,
+        "review": "Enjoyed the meal, but the prices were a bit high for the portion sizes.",
+        "image": "https://t4.ftcdn.net/jpg/04/31/64/75/240_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+    },
+    {
+        "id": 9,
+        "customer": "Ian",
+        "rating": 4.3,
+        "review": "Good food and friendly staff. The menu variety is impressive.",
+        "image": "https://t3.ftcdn.net/jpg/06/20/53/68/240_F_620536814_v0h5OzfuAMjJL9of1MRnZAjYgAje8Y0z.jpg"
+    },
+    {
+        "id": 10,
+        "customer": "Julia",
+        "rating": 4.6,
+        "review": "The food was outstanding! Each dish was a culinary masterpiece.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHMMYfqbJ1pQ9N-X2Ur3XayUfDXtQm2LC-g&usqp=CAU"
+    }
+]
