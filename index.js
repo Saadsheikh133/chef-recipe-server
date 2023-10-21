@@ -7,6 +7,7 @@ app.use(cors());
 
 const chefInfo = require('./data/chefInfo.json');
 const foods = require('./data/foods.json');
+const allFoods = require('./data/allFoods.json');
 const reviews = require('./data/review.json');
 
 app.get('/', (req, res) => {
@@ -23,18 +24,22 @@ app.get('/chefInfo', (req, res) => {
     res.send(chefInfo);
 });
 
-app.get("/foods", (req, res) => {
+app.get('/foods', (req, res) => {
     res.send(foods);
 });
 
 app.get('/foods:id', (req, res) => {
     const id = req.params.id;
-    const selectedFood = foods.find(food => food.id === id);
+    const selectedFood = allFoods.find(food => food.id === id);
     res.send(selectedFood);
+});
+
+app.get('/allFoods', (req, res) => {
+    res.send(allFoods);
 })
 
 // review section
-app.get('/review', (req, res) => {
+app.get('/reviews', (req, res) => {
     res.send(reviews);
 });
 

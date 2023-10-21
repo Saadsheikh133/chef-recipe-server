@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "foodName": "Biryani",
+        "country": "Bangladesh",
+        "image": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 10,
+        "description": "A flavorful and aromatic rice dish cooked with spices, meat, and sometimes eggs or vegetables.",
+        "test": "Rich and spicy",
+        "recipe": "Cook rice and meat separately. Layer rice and meat, then cook with biryani masala."
+    },
+    {
+        "id": 2,
+        "foodName": "Ilish Bhapa",
+        "country": "Bangladesh",
+        "image": "https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26407.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 15,
+        "description": "Hilsa fish marinated with mustard paste and spices, wrapped in banana leaves, and baked to perfection.",
+        "test": "Spicy and tangy",
+        "recipe": "Marinate fish with mustard paste, turmeric, chili, and bake in banana leaves."
+    },
+    {
+        "id": 3,
+        "foodName": "Fuchka",
+        "country": "Bangladesh",
+        "image": "https://t4.ftcdn.net/jpg/04/54/35/37/240_F_454353705_dLtoZNlC3RBudcg7OUBnlPTx36j5661S.jpg",
+        "price": 5,
+        "description": "Crispy and hollow puris filled with spicy and tangy tamarind water, chickpeas, potatoes, and various spices.",
+        "test": "Spicy and tangy",
+        "recipe": "Make crispy puris, fill with mashed potatoes, chickpeas, spices, and tamarind water."
+    },
+    {
+        "id": 4,
+        "foodName": "Chingri Malai Curry",
+        "country": "Bangladesh",
+        "image": "https://img.freepik.com/free-photo/side-view-fried-shrimps-sauce-with-tomatoes-herbs_141793-4920.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 18,
+        "description": "Creamy coconut milk-based curry with prawns, flavored with spices, green chilies, and fresh coriander.",
+        "test": "Creamy and flavorful",
+        "recipe": "Cook prawns in coconut milk with spices, green chilies, and garnish with fresh coriander."
+    },{
+        "id": 13,
+        "foodName": "Butter Chicken",
+        "country": "India",
+        "image": "https://img.freepik.com/free-photo/indian-food-arrangement-high-angle_23-2148723468.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 14,
+        "description": "Tender chicken pieces cooked in a creamy tomato-based sauce, flavored with Indian spices.",
+        "test": "Rich and creamy",
+        "recipe": "Marinate chicken, grill, and simmer in a sauce made with butter, tomatoes, cream, and spices."
+    },
+    {
+        "id": 14,
+        "foodName": "Dosa",
+        "country": "India",
+        "image": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 7,
+        "description": "Thin, crispy pancake made from fermented rice and urad dal (black gram) batter, served with chutney and sambar.",
+        "test": "Crispy and flavorful",
+        "recipe": "Ferment rice and urad dal, spread thin batter on a hot griddle, cook until crispy. Serve with chutney and sambar."
+    },
+    {
+        "id": 15,
+        "foodName": "Rogan Josh",
+        "country": "India",
+        "image": "https://img.freepik.com/free-photo/pilaf-with-carrots-saffron_140725-1198.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 16,
+        "description": "Aromatic lamb curry cooked with a blend of Kashmiri spices, yogurt, and tomatoes.",
+        "test": "Spicy and aromatic",
+        "recipe": "Sauté onions, add lamb, spices, yogurt, and tomatoes. Slow-cook until the lamb is tender."
+    },
+    {
+        "id": 16,
+        "foodName": "Paneer Tikka",
+        "country": "India",
+        "image": "https://img.freepik.com/free-photo/grilled-bbq-meat-stick-white-plate_74190-6239.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 12,
+        "description": "Marinated and grilled cubes of paneer (Indian cottage cheese) served with mint chutney.",
+        "test": "Spicy and smoky",
+        "recipe": "Marinate paneer in a blend of yogurt, spices, and herbs. Grill until charred and serve hot."
+    },
+    {
+        "id": 7,
+        "foodName": "Sushi",
+        "country": "Japan",
+        "image": "https://img.freepik.com/free-photo/side-view-mix-sushi-rolls-tray-with-ginger-wasabi_141793-14242.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 18,
+        "description": "A dish of vinegared rice accompanied by various ingredients such as raw or cooked seafood, vegetables, and occasionally tropical fruits.",
+        "test": "Fresh and delicate",
+        "recipe": "Place seasoned rice on nori, add fish or vegetables, roll tightly, and cut into bite-sized pieces."
+    },
+    {
+        "id": 8,
+        "foodName": "Ramen",
+        "country": "Japan",
+        "image": "https://img.freepik.com/free-photo/mama-shrimp-white-plate_1150-22076.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 10,
+        "description": "Japanese noodle soup dish with Chinese-style wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso.",
+        "test": "Hearty and savory",
+        "recipe": "Boil noodles, prepare broth with miso/soy sauce, add toppings like sliced pork, green onions, and a boiled egg."
+    },
+    {
+        "id": 9,
+        "foodName": "Tempura",
+        "country": "Japan",
+        "image": "https://img.freepik.com/free-photo/hot-roll-tempura-with-nori-crab-meat-ginger-wasabi-soy-sauce-te_140725-10956.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 14,
+        "description": "Lightly battered and deep-fried seafood, vegetables, and mushrooms, served with a dipping sauce.",
+        "test": "Crispy and flavorful",
+        "recipe": "Coat seafood/vegetables with tempura batter, deep fry until golden brown. Serve with dipping sauce."
+    },
+    {
+        "id": 10,
+        "foodName": "Takoyaki",
+        "country": "Japan",
+        "image": "https://img.freepik.com/free-photo/takoyaki-ball_74190-5620.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=sph",
+        "price": 8,
+        "description": "Octopus-filled savory balls made of batter, cooked in a special molded pan, and served with takoyaki sauce and bonito flakes.",
+        "test": "Savory and tender",
+        "recipe": "Pour batter into takoyaki pan, add diced octopus, cook until golden brown. Top with takoyaki sauce and bonito flakes."
+    },
+    {
+        "id": 5,
+        "foodName": "Pad Thai",
+        "country": "Thailand",
+        "image": "https://img.freepik.com/free-photo/stir-fried-noodles-with-ink-white-plate_1150-22337.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 8,
+        "description": "Stir-fried rice noodles with tofu or shrimp, bean sprouts, peanuts, egg, and lime, flavored with tamarind sauce.",
+        "test": "Sweet and sour",
+        "recipe": "Stir-fry soaked rice noodles with tofu/shrimp, bean sprouts, egg, and tamarind sauce. Garnish with peanuts and lime."
+    },
+    {
+        "id": 6,
+        "foodName": "Green Curry",
+        "country": "Thailand",
+        "image": "https://img.freepik.com/free-photo/chicken-red-curry-black-cup_1150-23925.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 12,
+        "description": "Thai curry made with green chili paste, coconut milk, vegetables, and choice of meat, served with rice.",
+        "test": "Spicy and aromatic",
+        "recipe": "Cook green chili paste with coconut milk, add vegetables and meat. Serve hot with rice."
+    },
+
+    {
+        "id": 11,
+        "foodName": "Tom Yum Goong",
+        "country": "Thailand",
+        "image": "https://img.freepik.com/free-photo/thai-food-noodles-spicy-boil-with-seafood-pork-hot-pot_1150-27866.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 12,
+        "description": "Spicy and sour shrimp soup flavored with lemongrass, kaffir lime leaves, chili, and lime juice.",
+        "test": "Spicy and tangy",
+        "recipe": "Boil shrimp with lemongrass, lime leaves, chili, and season with fish sauce and lime juice."
+    },
+    {
+        "id": 12,
+        "foodName": "Som Tum",
+        "country": "Thailand",
+        "image": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26576.jpg?size=626&ext=jpg&ga=GA1.1.295577537.1697483197&semt=ais",
+        "price": 7,
+        "description": "Spicy green papaya salad made with shredded green papaya, tomatoes, green beans, peanuts, and chili.",
+        "test": "Spicy and refreshing",
+        "recipe": "Pound papaya, tomatoes, green beans, and chili in a mortar. Add lime juice, fish sauce, and peanuts. Mix well."
+    }
+]
